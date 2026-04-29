@@ -64,4 +64,3 @@ function WeatherCard({ data }: any) {
   }
   return <div className="card empty">No data yet</div>;
 }
-}
